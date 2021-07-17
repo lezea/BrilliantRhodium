@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+"GCP56AUQB526ZOHZQBKW3XJC2F5WYTSUQ3KABKQJDUKTM4SJVSPSMYYV"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="BrilliantRh"
+ORG_URL="https://www.BrilliantRh.org"
+ORG_DESCRIPTION="Rhodium, one of the most precious chemical elements and metals, considered on the top of "
+ORG_TWITTER="@BrilliantRh"
+ORG_LOGO="https://i.ibb.co/N7Zj1hX/photo-2021-07-18-01-05-53.jpg"
+ORG_OFFICIAL_EMAIL="BrilliantRh@gmail.com"
 
 
 [[CURRENCIES]]
-code="EmeraldGem"
-issuer="GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+code="BrilliantRh"
+issuer="GCP56AUQB526ZOHZQBKW3XJC2F5WYTSUQ3KABKQJDUKTM4SJVSPSMYYV"
 anchor_asset="false"
-name="Emerald Gem"
-desc="When it comes to rare and expensive gemstones, most of us immediately think of diamonds, but, in fact, emeralds are more than 20 times rarer than diamonds and, therefore, often command a higher price."
+name="Brilliant Rhodium"
+desc="Rhodium is a silver-white metallic element that is considered the rarest and most valuable precious metal in the world — well above gold or silver."
 conditions="1 carat of low-grade emerald can cost as little as $200, while 1 carat of a high-quality gem can fetch up to $18,000. Synthetic emeralds are much cheaper, with even the highest quality costing around $350 for 1 carat."
-image="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
+image="https://i.ibb.co/N7Zj1hX/photo-2021-07-18-01-05-53.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#EmeraldGem was issued using the open and inclusive Stellar blockchain network.
+#BrilliantRh was issued using the open and inclusive Stellar blockchain network.
